@@ -1,0 +1,4 @@
+clide gen OptInTest Name SPEC= FOO=
+
+Description:
+  Testing the ability to opt-in to parts of a template

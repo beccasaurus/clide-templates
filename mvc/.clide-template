@@ -1,0 +1,4 @@
+Usage: clide gen mvc ProjectName
+
+Description:
+  Fresh MVC3 project (that runs on Mono)
