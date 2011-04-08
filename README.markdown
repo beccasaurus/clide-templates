@@ -3,4 +3,6 @@
 
 My [Clide][] templates
 
-[clide]: https://github.com/remi.clide
+Once I think these are useful to the real world, I'll document them ...
+
+[clide]: https://github.com/remi/clide
