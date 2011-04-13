@@ -34,6 +34,12 @@
     <Compile Include="**\*.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\src\$arg1$.csproj">
+      <Project>{BF58696E-2A97-43B2-A654-A073022B6CAA}</Project>
+      <Name>$arg1$</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="nunit.framework, Version=2.5.9.10348, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77">
       <HintPath>$(MOO_DIR)\packages\NUnit-2.5.9.10348\lib\nunit.framework.dll</HintPath>
       <SpecificVersion>False</SpecificVersion>
