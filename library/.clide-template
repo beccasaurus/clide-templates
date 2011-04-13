@@ -1,0 +1,5 @@
+Usage:
+  clide g library NameOfMyNewLibrary
+
+Description:
+  Creates a new library setup with specs and whatnot (in a new directory)

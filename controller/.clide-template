@@ -1,0 +1,3 @@
+Usage: clide gen controller Name
+
+Description: create a simple MVC controller (from MVC root)

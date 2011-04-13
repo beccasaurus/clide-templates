@@ -1,0 +1,4 @@
+Usage: clide g specs ProjectName
+
+Description:
+  Adds a 'spec' directory pre-configured with NUnit
