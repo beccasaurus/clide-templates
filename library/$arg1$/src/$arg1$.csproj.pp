@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{BF58696E-2A97-43B2-A654-A073022B6CAA}</ProjectGuid>
+    <ProjectGuid>{00000000-0000-0000-0000-000000000000}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>$arg1$</RootNamespace>
     <AssemblyName>$arg1$</AssemblyName>

@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{84BD6B2B-DB13-4767-867E-E7A540CA33D8}</ProjectGuid>
+    <ProjectGuid>{11111111-1111-1111-1111-111111111111}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>$arg1$.Specs</RootNamespace>
     <AssemblyName>$arg1$.Specs</AssemblyName>
@@ -35,7 +35,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\src\$arg1$.csproj">
-      <Project>{BF58696E-2A97-43B2-A654-A073022B6CAA}</Project>
+      <Project>{00000000-0000-0000-0000-000000000000}</Project>
       <Name>$arg1$</Name>
     </ProjectReference>
   </ItemGroup>
