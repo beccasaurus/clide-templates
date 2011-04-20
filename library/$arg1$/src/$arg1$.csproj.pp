@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>$arg1$</RootNamespace>
     <AssemblyName>$arg1$</AssemblyName>
-    <TargetFrameworkVersion>4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
